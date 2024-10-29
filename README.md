@@ -8,20 +8,12 @@ Inspired by the legendary monster Godzilla, Jira itself is named after "Gojira,"
 
 ## Table of Contents 📚
 ⠀⠀⠀⠀⠀⠀⠀⠀
-                                                ⠀⠀⠀⠀⣾⠀⠀⠀⣠⣴⣶⣦⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-                                                ⢀⣀⣤⣴⣧⡀⠀⠿⠿⣿⣿⣿⣿⡄⣠⡄⠀⠀⠀⠀⠀⢠⡶⠀
-                                                ⠈⠉⣤⣿⣍⠛⠆⠀⠈⠙⠻⠿⣿⣿⣌⢁⣤⣶⣤⠀⠀⣿⡇⠀⠀⠀
-                              ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀  ⠀⠀⢀⢐⡿⠿⢿⣿⣿⣿⣿⣿⣿⣶⣶⢻⣿⣆⠻⣿⠛⠀⠀⢿⣷⡀⠀⠀⠀⠀⠀⠀⠀
-- [Introduction](#introduction)⠀⠀⠀⠀⠀⠀           ⠉⠟⠀⠀⠀⠀⠀⠉⠉⠛⣛⣛⣣⣿⣿⣿⣧⡰⣿⣿⡆⠈⠻⣿⣶⣀⠀⠀⠀
-- [Categories](#categories)                              ⠀⠀⠀⣿⣿⣿⣿⣿⣿⣿⣷⡘⢫⣤⣄⠀⠙⢿⣿⣷⣄⡀⠀
-- [How to Contribute](#how-to-contribute)                  ⠀⣿⣿⣿⠿⠿⢿⣿⣿⣿⣌⠿⠟⠀⠀⠀⠙⢿⣿⣷⡄
-- [Resources](#resources)                                  ⠀⠻⢟⣵⣿⣿⣿⣎⣿⣿⣿⣦⡸⣿⠂⠀⠀⠈⣿⣿⣷
-- [License](#license)                                      ⠀⣴⣿⣿⣿⣿⡿⣡⣿⣿⣿⣿⣷⣄⡀⠀⣀⣼⣿⣿⡇
-                                                           ⢸⣿⣿⣿⣿⠫⣴⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠟⠀
-                                                           ⠀⣿⣿⣿⠁⢀⣮⣝⡻⠿⢿⣿⣿⣿⣿⡿⠿⠟⠋⠀
-                                                         ⠀⣠⣶⣿⣿⣿⠘⠛⠛⠛⠃⠀⠀⠀⠀⠀
-
-  
+- [Introduction](#introduction)
+- [Categories](#categories)
+- [How to Contribute](#how-to-contribute)
+- [Resources](#resources)
+- [License](#license)
+   
 ## Introduction 🌟
 
 Jira smart values are placeholders that let you dynamically insert issue data into your automation rules. They help you create powerful and flexible automations by accessing and manipulating issue data. This repository serves as a comprehensive guide to using these smart values effectively.
